@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "devfesthyd17.firebaseapp.com",
+  "startDate": "2017-09-09T09:00:00+03:00",
+  "endDate": "2017-09-10T19:00:00+03:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "#",
+    "dev": "#"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Hyderabad",
+    "twitter": "gdg_hyd"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,27 +16,27 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
+    "name": "devfesthyd17",
+    "domain": "devfesthyd17.firebaseapp.com",
+    "database": "https://devfesthyd17.firebaseio.com",
+    "api": "AIzaSyAVwV3Prb_UcOqTsq-4nZf1gxjMjkmh-jY",
     "userSessionsPath": "/userSessions",
     "ratingsPath": "/ratings",
     "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "https://www.meetup.com/GDGHyderabad/",
+    "name": "#"
   },
   "dateFormat": {
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "gdghyd",
   "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "tweetsSource": "https://gdg-hyd.herokuapp.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000%22",
+  "partnershipProposition": "mailto:gdevghyd@gmail.com",
+  "videosSessionsUrl": "https://www.youtube.com/channel/UC8QMvQrV1bsK7WO37QpSxSg/videos",
   "enableSessionsRating": true,
   "navigation": [
     {
