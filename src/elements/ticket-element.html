@@ -18,7 +18,7 @@
         @apply(--shadow-elevation-2dp);
         @apply(--shadow-transition);
         --ticket-color: #fff;
-        --background-color: var(--default-primary-color);
+        --background: var(--default-primary-color);
 
         background: var(--ticket-color);
         position: relative;
@@ -38,13 +38,11 @@
       }
 
       .punch {
-        background: var(--background-color);
         border-radius: 50%;
         width: 40px;
         height: 40px;
         position: absolute;
         top: 50%;
-        box-shadow: inset -2px 0 1px rgba(0, 0, 0, 0.12);
         transform: translate3d(-50%, -50%, 0);
         z-index: 1;
       }
@@ -57,24 +55,6 @@
 
       .headline {
         font-weight: 300;
-      }
-
-      .side {
-        @apply(--layout-vertical);
-        @apply(--layout-center-center);
-        width: 50px;
-        border-left: 2px dotted var(--background-color);
-        overflow: hidden;
-      }
-
-      .side-content {
-        color: var(--primary-text-color);
-        font-size: 20px;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-        white-space: nowrap;
-        transform: rotate(-90deg) translate3d(0, 0, 0);
-        -webkit-font-smoothing: antialiased;
       }
 
       .headline {
@@ -96,21 +76,16 @@
         fill: var(--primary-text-color);
       }
 
-      .dates {
-        font-size: 16px;
-        color: var(--secondary-text-color);
-      }
-
       .additional-info {
-        font-size: 12px;
-        color: var(--disabled-text-color);
+        font-size: 17px;
+        color: #212121;
       }
 
       .overlay {
         @apply(--layout-fit);
         @apply(--layout-vertical);
         @apply(--layout-center-center);
-        background-color: rgba(255, 255, 255, 0.9);
+        background: rgba(255, 255, 255, 0.9);
         border-radius: 3px;
         color: var(--default-primary-color);
         font-size: 24px;
@@ -126,18 +101,14 @@
     <div class="punch"></div>
     <div class="inner">
       <div class="main">
-        <div class="headline">[[price]][[currency]]</div>
+        <div class="headline">[[name]]</div>
         <div class="divider">
           <iron-icon icon="icons:star"></iron-icon>
         </div>
-        <div class="dates">[[starts]] - [[ends]]</div>
         <div class="additional-info" hidden$="[[!info]]">[[info]]</div>
       </div>
     </div>
-    <div class="side">
-      <div class="side-content">[[type]]</div>
     </div>
-    <div class="overlay" hidden$="{{!soldOut}}">[[soldOutText]]</div>
   </template>
 
   <script>
@@ -149,36 +120,12 @@
         is: 'ticket-element',
 
         properties: {
-          type: {
-            type: String
-          },
 
-          price: {
-            type: Number
-          },
-
-          currency: {
-            type: String
-          },
-
-          starts: {
-            type: String
-          },
-
-          ends: {
+          name: {
             type: String
           },
 
           info: {
-            type: String
-          },
-
-          soldOut: {
-            type: Boolean,
-            value: false
-          },
-
-          soldOutText: {
             type: String
           }
         }

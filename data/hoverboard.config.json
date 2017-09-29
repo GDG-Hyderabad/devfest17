@@ -63,38 +63,38 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGHyd",
+      "url": "https://twitter.com/gdg_hyd"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "+GdghyderabadOrg",
+      "url": "https://plus.google.com/+GdghyderabadOrg"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "gdghyd",
+      "url": "https://www.facebook.com/gdghyd/"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-hyd",
+      "url": "https://www.linkedin.com/company/13401596/"
     }
   ],
   "location": {
-    "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "apiKey": "AIzaSyAqeNTdBpLQepse7SVFJ73Itg3jxeKa_IA",
+    "name": "Hyderabad",
+    "address": "Telangana, India",
+    "link": "https://en.wikipedia.org/wiki/Hyderabad",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 17.4125003,
+      "longitude": 78.3380062,
+      "zoom": 13
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 17.4125003,
+      "longitude": 78.3380062
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,12 +103,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/photos/114190263289122404629/album/6341924267998385121",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/2016_1.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/2016_2.jpg",
+        "/images/backgrounds/2016_3.jpg"
       ]
     }
   },
@@ -121,9 +121,9 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest Hyderbad 2017",
+          "youtubeId": "KlWVfEiW7Ak",
+          "text": "Google Developer Groups"
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -162,7 +162,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Code of Conduct",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

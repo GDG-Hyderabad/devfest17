@@ -1,20 +1,20 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
+  "title": "GDG DevFest Hyderabad 2017",
+  "description": "GDG Hyderabad invites you to the worldwide celebrations of developers and technological innovations. Join us as we celebrate 6th season of DevFest. #gdghyd #hyddevfest17",
+  "keywords": "event, gdg, gde, hyderabad, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+  "dates": "October 14, 2017",
+  "locationAddressShort": "Hyderabad, Telangana",
+  "motto": "All about Android, Web and Machine Learning.",
+  "playIcon": "See how it was in 2016",
   "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Register Now",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsTitle": "Why Attend?",
+  "ticketsDetails": "The one day event includes a series of uber cool tech-talks, hands-on sessions on latest technologies, code labs and all through the way it will be fun and interactive. Infotainment is the anthem of our event. We bring the perfect amalgamation of diverse topics from the developer’s world to the community.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -27,15 +27,14 @@
   "featuredVideosViewAll": "View all videos",
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+  "locationTitle": "Hyderabad",
+  "locationDescription": "Hyderabad, the City of Pearls, one of the most dynamic cities across the world with an exponential growth of Tech & Startup community",
+  "locationAddress": "Telangana, India",
+  "organizerTitle": "GDG DevFest Hyderabad",
+  "aboutOrganizers": "<a href='https://www.gdghyderabad.in' target='_blank'>GDG Hyderabad</a> celebrates the spirit of being a developer. Hyderabad DevFest can be considered as “Technical Diwali” that celebrates the achievements of computing world and the constant urge to connect, code and innovate. \n \n GDG Hyderabad believes that technology is not only easy to apply in our daily lives but it is also easy to build one on our own. And since, to learn something there are no constraints, anyone can attend the session and  get a hands-on idea of the the latest developments of technical world.",
   "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "whatIsGdg": "DevFests Globally",
+  "aboutGdg": "GDG DevFests are large, community-run events that can offer speaker sessions across multiple product areas, all-day hack-a-thons, code labs, and more. Each GDG DevFest will be inspired by and uniquely tailored to the needs of the developer community that hosts it. \n \n While no two events will be exactly alike, each GDG DevFest will, at its core, be powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.",
   "readMore": "Read more",
   "copyLink": "Copy link",
   "filteredBy": "filtered by",
@@ -78,18 +77,18 @@
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG DevFest Hyderabad 2014",
+          "url": "https://www.facebook.com/media/set/?set=a.470087029774662.1073741834.127530554030313&type=1&l=bba8ccbf6c",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
+          "text": "GDG DevFest Hyderabad 2015",
+          "url": "https://www.facebook.com/media/set/?set=a.884590488324312.1073741842.127530554030313&type=1&l=36a406f0fa",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Hyderabad 2016",
+          "url": "https://plus.google.com/photos/114190263289122404629/album/6341924267998385121",
           "newTab": true
         }
       ]
@@ -99,12 +98,12 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
+          "url": "mailto:gdevghyd@gmail.com",
           "newTab": true
         },
         {
           "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "url": "https://goo.gl/4fEXab",
           "newTab": true
         }
       ]
@@ -113,33 +112,29 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "gdevghyd@gmail.com",
+        "url": "mailto:gdevghyd@gmail.com"
       }
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "19 years ago, a dream to make knowledge accessible universally came true. Fast forward to 2017, Google has grown into not just a firm that believes in its roots of  continuous learning and sharing but also has become an integral part of our daily lives, as they say “googling around the world”. <br> <br> At GDG Hyderabad, we believe in sharing the same values and expanding to more avenues of collaborating and co-developing ideas to build a creative and innovative platform for developers, technologists and passionate minds. <br> <br> <b>GDG Hyderabad</b> is an open community run by the diverse and inspiring enthusiasm of its members.  Our team is thus driven by this love for bringing an impactful change in the society with the power of technology and community spirit.",
   "statistics": [
     {
-      "counter": 600,
+      "counter": 1200,
       "caption": "Attendees"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 5,
+      "caption": "DevFests"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
+      "counter": 80,
+      "caption": "Expert Sessions"
     },
     {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 5,
+      "caption": "Years of Fun"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }
