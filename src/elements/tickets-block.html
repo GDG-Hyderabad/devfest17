@@ -15,48 +15,45 @@
     <style include="shared-styles">
       :host {
         --iron-icon-fill-color: var(--text-primary-color);
-        --paper-card-background-color: #FFFFFF;
+        --paper-card-background: #FFFFFF;
         display: block;
-        background: var(--default-primary-color);
+        background: #37474f;
         color: var(--text-primary-color);
         text-align: center;
       }
-
       .tickets-wrapper {
         @apply(--layout-horizontal);
         @apply(--layout-wrap);
         @apply(--layout-center-justified);
       }
-
+      .block-header {
+        color: #ffffff;
+      }
       ticket-element {
         margin: 15px;
       }
-
       paper-button {
         font-size: 0.9em;
       }
-
       .details {
         margin: 10px auto 0;
-        font-size: 14px;
-        max-width: 600px;
+        font-size: 16px;
+        max-width: 945px;
+        color: #ffffff;
       }
-
       .buy-button {
         margin-top: 30px;
-        background: #fff;
-        color: var(--primary-text-color);
+        background: #f1524c;
+        font-weight: bold;
+        color: #ffffff;
       }
-
       paper-dialog {
         background: #fff;
         color: var(--primary-text-color);
       }
-
       paper-dialog paper-button {
         color: var(--default-primary-color);
       }
-
       @media (min-width: 601px) {
         ticket-element {
           max-width: 350px;
@@ -71,14 +68,8 @@
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
           <ticket-element
-            type="[[ticket.name]]"
-            price="[[ticket.price]]"
-            currency="[[ticket.currency]]"
-            starts="[[ticket.starts]]"
-            ends="[[ticket.ends]]"
-            info="[[ticket.info]]"
-            sold-out="[[ticket.soldOut]]",
-            sold-out-text="{$ soldOutTickets $}">
+            name="[[ticket.name]]"
+            info="[[ticket.info]]">
           </ticket-element>
         </template>
       </div>
@@ -93,20 +84,15 @@
   <script>
     (function () {
       'use strict';
-
       Polymer({
         is: 'tickets-block',
-
         ready: function () {
           HOVERBOARD.Elements.Tickets = this
         },
-
         _trackBuyClick: function (e) {
           HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', e.currentTarget.href);
         }
-
       });
-
     }());
   </script>
 
