@@ -17,7 +17,7 @@
         --iron-icon-fill-color: var(--text-primary-color);
         --paper-card-background: #FFFFFF;
         display: block;
-        background: #37474f;
+        background: #f5f5f5;
         color: var(--text-primary-color);
         text-align: center;
       }
@@ -27,7 +27,7 @@
         @apply(--layout-center-justified);
       }
       .block-header {
-        color: #ffffff;
+        color: #000000;
       }
       ticket-element {
         margin: 15px;
@@ -39,16 +39,11 @@
         margin: 10px auto 0;
         font-size: 16px;
         max-width: 945px;
-        color: #ffffff;
+        color: #000000;
       }
-      .buy-button {
-        margin-top: 30px;
-        background: #f1524c;
-        font-weight: bold;
-        color: #ffffff;
-      }
+
       paper-dialog {
-        background: #fff;
+        background: #ffffff;
         color: var(--primary-text-color);
       }
       paper-dialog paper-button {
@@ -74,9 +69,6 @@
         </template>
       </div>
       <div class="details">{$ ticketsDetails $}</div>
-      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-        <paper-button class="buy-button" raised>{$ buyTicket $}</paper-button>
-      </a>
     </div>
 
   </template>

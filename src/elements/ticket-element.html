@@ -17,7 +17,7 @@
         @apply(--layout-justified);
         @apply(--shadow-elevation-2dp);
         @apply(--shadow-transition);
-        --ticket-color: #fff;
+        --ticket-color: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
         --background: var(--default-primary-color);
 
         background: var(--ticket-color);
@@ -33,7 +33,7 @@
         @apply(--layout-flex);
         margin-left: 15px;
         position: relative;
-        color: var(--primary-text-color);
+        color: #ffffff;
         border-radius: 3px;
       }
 
@@ -59,8 +59,8 @@
 
       .headline {
         margin: 0 30px;
-        font-size: 50px;
-        line-height: 1;
+        font-size: 40px;
+        line-height: 1.5;
       }
 
       .divider {
@@ -78,7 +78,8 @@
 
       .additional-info {
         font-size: 17px;
-        color: #212121;
+        color: #ffffff;
+        padding: 15px 20px;
       }
 
       .overlay {
@@ -102,9 +103,6 @@
     <div class="inner">
       <div class="main">
         <div class="headline">[[name]]</div>
-        <div class="divider">
-          <iron-icon icon="icons:star"></iron-icon>
-        </div>
         <div class="additional-info" hidden$="[[!info]]">[[info]]</div>
       </div>
     </div>
