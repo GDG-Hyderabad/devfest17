@@ -71,8 +71,8 @@
       }
 
       .action-button {
-        color: var(--header-background);
-        background: var(--header-color);
+        color: #ffffff;
+        background: #f1524c;
         font-size: 13px;
       }
 
@@ -186,8 +186,8 @@
         </paper-menu-button>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href="{$ tickets.url $}" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-            <paper-button class="action-button">{$ buyTicket $}</paper-button>
+          <a href="https://www.meetup.com/gdghyderabad/" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+            <paper-button class="action-button">{$ joinGdg $}</paper-button>
           </a>
         </div>
       </div>
