@@ -1,9 +1,9 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG[x]",
+      "url" : "https://github.com/gdg-x",
       "width" : 170
     } ],
     "title" : "Community Partners"
@@ -16,11 +16,7 @@
       "logoUrl" : "../images/logos/google-developers.svg",
       "name" : "Google Developers",
       "url" : "https://developers.google.com/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    } ],
+    }],
     "title" : "General Sponsors & Partners"
   } ],
   "schedule" : [ {
