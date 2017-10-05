@@ -258,7 +258,7 @@
     "202" : {
         "description" : "",
         "id" : 202,
-        "image" : "/images/backgrounds/keynote.jpg",
+        "background" : "linear-gradient(to top, #30cfd0 0%, #330867 100%);",
         "language" : "English",
         "title" : "Session III"
     },
