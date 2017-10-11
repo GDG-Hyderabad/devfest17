@@ -37,9 +37,18 @@
       }
       .details {
         margin: 10px auto 0;
-        font-size: 16px;
-        max-width: 945px;
-        color: #000000;
+        font-size: 18px;
+        max-width: 1080px;
+        font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        color: #212121;
+        font-weight: 300;
+        line-height: 1.4;
+      }
+      .buy-button {
+        margin-top: 30px;
+        background: linear-gradient(to right, #E67207 0%, #EF4E7B 50%, #A166AB 100%);
+        font-weight: bold;
+        color: #ffffff;
       }
 
       paper-dialog {
@@ -59,6 +68,7 @@
     <div class="container">
       <div class="block-header">
         <h4 class="heading">{$ ticketsTitle $}</h4>
+        <div class="details">{$ ticketsDetails $}</div>
       </div>
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.tickets.elements]]" as="ticket">
@@ -68,7 +78,9 @@
           </ticket-element>
         </template>
       </div>
-      <div class="details">{$ ticketsDetails $}</div>
+      <a href="[[app.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+        <paper-button class="buy-button" raised>{$ registerNow $}</paper-button>
+      </a>
     </div>
 
   </template>
