@@ -8,6 +8,17 @@
   <meta name="description" content="{$ description $}">
   <meta name="keywords" content="{$ keywords $}">
   <meta name="author" content="{$ organizer.name $}">
+  
+  <style id="antiClickjack">body{display:none !important;}</style>
+
+  <script type="text/javascript">
+    if (self === top) {
+        var antiClickjack = document.getElementById("antiClickjack");
+        antiClickjack.parentNode.removeChild(antiClickjack);
+    } else {
+        top.location = self.location;
+    }
+  </script>
 
   <title>{$ title $}</title>
 
