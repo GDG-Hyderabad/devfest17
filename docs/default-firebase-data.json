@@ -88,9 +88,9 @@
       "startTime" : "18:00"
     } ],
     "tracks" : [ {
-      "title" : "Expo hall"
+      "title" : "Main Hall"
     }, {
-      "title" : "Conference hall"
+      "title" : "Android Track"
     }, {
       "title" : "Workshops hall"
     } ]
@@ -98,13 +98,13 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "#",
+      "description" : "",
       "id" : 101,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "language" : " by Subhash Konda",
+      "presentation" : "",
       "speakers" : [ 1 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Session VII"
+      "tags" : [ "Machine Learning" ],
+      "title" : "Code Lab on Machine Learning Latest trends"
     },
     "103" : {
       "complexity" : "Intermediate",
@@ -149,13 +149,13 @@
     },
     "116" : {
       "complexity" : "Beginner",
-      "description" : "#",
+      "description" : "",
       "id" : 116,
-      "language" : "English",
-      "presentation" : "#",
+      "language" : "  by Gaurav Sharma, Sr. Development Engineer, Pramati Technologies ",
+      "presentation" : "",
       "speakers" : [ 14 ],
-      "tags" : [ "Web" ],
-      "title" : "Session VI"
+      "tags" : [ "Android" ],
+      "title" : "Building Android App using Kotlin"
     },
     "118" : {
       "complexity" : "Intermediate",
@@ -208,14 +208,14 @@
       "videoId" : "#"
     },
     "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
+      "complexity" : "Beginner",
+      "description" : "",
       "id" : 129,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
+      "language" : "by Anudeep Sai N, Xoogler , Commuity Co-Lead, GDG Hyderabad",
+      "presentation" : "",
       "speakers" : [ 26 ],
-      "tags" : [ "Android" ],
-      "title" : "Session V"
+      "tags" : [ "Google Assistant" ],
+      "title" : "Getting Started with Google Assistant"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -233,8 +233,8 @@
       "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
       "id" : 136,
       "image" : "/images/backgrounds/opening.jpg",
-      "language" : "English",
-      "title" : "Keynote Address"
+      "language" : "by Janakiram MSV, Founder & Principal Analyst, Janakiram & Associates",
+      "title" : "Keynote Address - Google's Artifical Intelligence"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -247,7 +247,7 @@
       "id" : 139,
       "image" : "/images/backgrounds/keynote.jpg",
       "language" : "English",
-      "title" : "Session II"
+      "title" : "TensorFlow Session"
     },
     "200" : {
         "description" : "",
@@ -258,16 +258,17 @@
     "202" : {
         "description" : "",
         "id" : 202,
+        "image" : "/images/backgrounds/party.jpg",
         "background" : "linear-gradient(to top, #30cfd0 0%, #330867 100%);",
         "language" : "English",
-        "title" : "Session III"
+        "title" : "Code Lab on Polymer 2 & Web Components"
     },
     "204" : {
         "description" : "",
         "id" : 204,
         "image" : "/images/backgrounds/registration.jpg",
-        "language" : "English",
-        "title" : "Session IV"
+        "language" : "by Madhu Vadlamani, Data Scientist, Kony",
+        "title" : "The developers view of design - The new mindset which can make things easy"
     },
     "206" : {
         "description" : "",
@@ -286,73 +287,69 @@
         "complexity" : "Intermediate",
         "description" : "#",
         "id" : 140,
-        "language" : "English",
+        "language" : "by Raj Desai",
         "presentation" : "#",
         "speakers" : [ 23 ],
-        "tags" : [ "web" ],
-        "title" : "Session IX",
+        "tags" : [ "Tensor Flow" ],
+        "title" : "Code Lab on Tensor Flow",
         "videoId" : "#"
     }
   },
   "speakers" : [ null, {
-    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "London, United Kingdom",
+    "bio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major colleges. Handled 50+ Sessions. Recently received certification of appreciation Vision INDIA foundation.",
+    "company" : "Kony",
+    "companyLogo" : "/images/logos/kony.svg",
+    "country" : "Hyderabad, Telangana",
     "featured" : true,
     "id" : 1,
-    "name" : "Mete Atamel",
-    "photoUrl" : "/images/people/mete_atamel.jpg",
-    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "name" : "Madhu Vadlamani",
+    "photoUrl" : "/images/people/Madhu.jpg",
+    "shortBio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major...",
     "socials" : [ {
       "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/meteatamel/",
+      "link" : "https://www.linkedin.com/in/madhuvad/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/madhuvadlamani7",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Python", "Analytics","Predictive Modelling" ],
+    "title" : "Data Scientist"
+  }, {
+    "badges" : [ {
+      "description" : "Google Cloud Developer Expert",
+      "link" : "https://developers.google.com/experts/people/janakiram-msv",
+      "name" : "GDE"
+    } ],
+    "bio" : "Janakiram is an analyst, advisor and architect at Janakiram and Associates. He was the founder and CTO of Get Cloud Ready Consulting, a niche Cloud Migration and Cloud Operations firm acquired by Aditi Technologies. \n \n Through his speaking, writing and analysis, he helps businesses take advantage of the emerging technologies. Janakiram is also one of the first Microsoft Certified Windows Azure Professionals in India. He is one of the few professionals with Amazon Certified Solution Architect, Amazon Certified Developer and Amazon Certified SysOps Administrator credentials. Plus he's a Google Qualified Cloud Developer. Janakiram is recognised by Google as a Google Developer Expert (GDE) for his subject matter expertise. \n \n Janakiram is a senior analyst with Gigaom Research analyst network, where he analyzes the Cloud Services landscape. He is the technical editor at InfoQ, managing the cloud-related content. He is also a contributor at ComputerWeekly. Janakiram is a Guest Faculty at the International Institute of Information Technology (IIIT-H) where he teaches Big Data, Cloud Computing, Containers and DevOps and to the students enrolled for the Masters course.\n \n Janakiram has worked at world-class product companies including Microsoft Corporation, Amazon Web Services and Alcatel-Lucent. His last role was with Amazon Web Services as the Technology Evangelist where he joined them as the first employee in India. Prior to that, Janakiram spent 10 years at Microsoft Corporation where he was involved in selling, marketing and evangelizing the Microsoft Application Platform and Tools. At the time of leaving Microsoft, he was a Cloud Architect focused on Windows Azure.",
+    "company" : "Janakiram & Associates",
+    "companyLogo" : "/images/logos/janakiram.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Janakiram MSV",
+    "photoUrl" : "/images/people/janakirammsv.jpg",
+    "shortBio" : "Janakiram is an analyst, advisor and architect at Janakiram and Associates. He was the founder and CTO of Get Cloud Ready Consulting, a niche Cloud Migration...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "http://www.linkedin.com/in/janakiramm",
       "name" : "LinkedIn"
     }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/meteatamel/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/meteatamel/",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-    "title" : "Developer Advocate"
-  }, {
-    "badges" : [ {
-      "description" : "Android Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-      "name" : "GDE"
-    } ],
-    "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-    "company" : "Gett",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Tel Aviv, Israel",
-    "featured" : true,
-    "id" : 2,
-    "name" : "Yonatan Levin",
-    "photoUrl" : "/images/people/yonatan_levin.jpg",
-    "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-    "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/levin.yonatan",
-      "name" : "Facebook"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/parahall",
+      "link" : "https://twitter.com/janakiramm",
       "name" : "Twitter"
     }, {
       "icon" : "gplus",
-      "link" : "https://plus.google.com/+YonatanLevin",
+      "link" : "https://plus.google.com/114075011573297290846",
       "name" : "Google+"
     } ],
-    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-    "title" : "Android Evangelist & Developer"
+    "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
+    "title" : "Founder & Principal Analyst - Janakiram & Associates, Google Developer Expert"
   }, {
-    "bio" : "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG – Connected Home, he likes discovering the world together with his kids in an odd way.",
-    "company" : "Duetsche Telekom AG - Group Innovation+",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "bio" : "Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
+    "company" : "Google Developers Group Hyderabad",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Munich and Dusseldorf, Germany",
     "featured" : true,
     "id" : 3,
@@ -377,7 +374,7 @@
   }, {
     "bio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
     "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Mountain View, United States",
     "featured" : true,
     "id" : 4,
@@ -394,7 +391,7 @@
   }, {
     "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
     "company" : "Sygic",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Opole, Poland",
     "featured" : true,
     "id" : 5,
@@ -416,7 +413,7 @@
     } ],
     "bio" : "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
     "company" : "AngularZone",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "London, United Kingdom",
     "featured" : true,
     "id" : 6,
@@ -437,7 +434,7 @@
   }, {
     "bio" : "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
     "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Prague, Czech Republic",
     "featured" : true,
     "id" : 7,
@@ -475,7 +472,7 @@
     } ],
     "bio" : "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
     "company" : "IG",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Krakow, Poland",
     "featured" : true,
     "id" : 8,
@@ -500,7 +497,7 @@
   }, {
     "bio" : "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
     "company" : "SoftServe",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Kyiv, Ukraine",
     "featured" : false,
     "id" : 9,
@@ -530,7 +527,7 @@
     } ],
     "bio" : "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
     "company" : "Brainly",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Krakow, Poland",
     "featured" : true,
     "id" : 10,
@@ -556,7 +553,7 @@
     } ],
     "bio" : "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
     "company" : "Apeser",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Basel, Switzerland",
     "featured" : false,
     "id" : 11,
@@ -590,7 +587,7 @@
     } ],
     "bio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestlé, De Telegraaf, AGIS and De Consumentenbond.",
     "company" : "Pixplicity",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Amsterdam, The Netherlands",
     "featured" : true,
     "id" : 12,
@@ -611,7 +608,7 @@
   }, {
     "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
     "company" : "Applause",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Warsaw, Poland",
     "featured" : false,
     "id" : 13,
@@ -640,7 +637,7 @@
   }, {
     "bio" : "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
     "company" : "Widespread",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Cluj-Napoca, Romania",
     "featured" : false,
     "id" : 14,
@@ -661,7 +658,7 @@
   }, {
     "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
     "company" : "Stylight",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Munich, Germany",
     "featured" : true,
     "id" : 15,
@@ -687,7 +684,7 @@
     } ],
     "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
     "company" : "Timee",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Lviv, Ukraine",
     "featured" : false,
     "id" : 16,
@@ -725,7 +722,7 @@
     } ],
     "bio" : "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
     "company" : "Juicymo",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Prague, Czech Republic",
     "featured" : false,
     "id" : 17,
@@ -759,7 +756,7 @@
     } ],
     "bio" : "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG ČVUT in the Czech republic.",
     "company" : "Shipito",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Prague, Czech Republic",
     "featured" : false,
     "id" : 18,
@@ -785,7 +782,7 @@
     } ],
     "bio" : "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
     "company" : "Step Up Labs",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Prague, Czech Republic",
     "featured" : true,
     "id" : 19,
@@ -823,7 +820,7 @@
     } ],
     "bio" : "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
     "company" : "Wolters Kluwer",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Kyiv, Ukraine",
     "featured" : false,
     "id" : 20,
@@ -849,7 +846,7 @@
     } ],
     "bio" : "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
     "company" : "Leverate",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Kyiv,  Ukraine",
     "featured" : false,
     "id" : 21,
@@ -879,7 +876,7 @@
     } ],
     "bio" : "Ihor is an Operations Engineer at Mirantis with a huge experience working in IT companies, where he was responsible for projects tightly bound to Cloud computing and Linux systems. He is deeply interested in the OpenStack cloud platform, other Cloud technologies, especially the Open Source projects.<br><br>Also, Ihor acts as the OpenStack Foundation member, Kubernetes upstream contributor, and OpenStack special interest group lead in Kubernetes Community, working intensely on the questions and abilities, related to the OpenStack and Kubernetes collaboration and integration.",
     "company" : "Mirantis",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Lviv, Ukraine",
     "featured" : false,
     "id" : 22,
@@ -904,7 +901,7 @@
   }, {
     "bio" : "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
     "company" : "Stanfy",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Kyiv, Ukraine",
     "featured" : false,
     "id" : 23,
@@ -929,7 +926,7 @@
   }, {
     "bio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
     "company" : "EPAM",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Lviv, Ukraine",
     "featured" : false,
     "id" : 24,
@@ -959,7 +956,7 @@
     } ],
     "bio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on DevFest, multiple IT NonStop events and GDG meetups. Constantine is interested mainly in Android Wear platform, RxJava, best practices in applications Architecture, and sometimes cross-platform mobile development with Xamarin.",
     "company" : "DataArt",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Dnipro, Ukraine",
     "featured" : false,
     "id" : 25,
@@ -985,7 +982,7 @@
     } ],
     "bio" : "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
     "company" : "InnovationBox",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Istanbul, Turkey",
     "featured" : false,
     "id" : 26,
@@ -1027,7 +1024,7 @@
     } ],
     "bio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
     "company" : "Yamert",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
     "country" : "Dnipro, Ukraine",
     "featured" : false,
     "id" : 27,
