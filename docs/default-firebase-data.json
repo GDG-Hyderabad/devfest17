@@ -102,7 +102,7 @@
       "id" : 101,
       "language" : " by Subhash Konda",
       "presentation" : "",
-      "speakers" : [ 1 ],
+      "speakers" : [ ],
       "tags" : [ "Machine Learning" ],
       "title" : "Code Lab on Machine Learning Latest trends"
     },
@@ -112,7 +112,7 @@
       "id" : 103,
       "language" : "English",
       "presentation" : "#",
-      "speakers" : [ 2 ],
+      "speakers" : [ ],
       "tags" : [ "Android" ],
       "title" : "Startup/ Dev Talent"
     },
@@ -214,7 +214,7 @@
       "language" : "by Anudeep Sai N, Xoogler , Commuity Co-Lead, GDG Hyderabad",
       "presentation" : "",
       "speakers" : [ 3 ],
-      "tags" : [ "Google Assistant" ],
+      "tags" : [ "Machine Learning" ],
       "title" : "Getting Started with Google Assistant"
     },
     "132" : {
