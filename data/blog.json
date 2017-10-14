@@ -9,7 +9,7 @@
       "brief": "GDG DevFest Hyderabad 2016 was a great success. We are happy to share with you some facts, emotions and, of course, photos from the biggest Google Developers Conference in Hyderabad!"
     },
     {
-      "id": "devfest-2016-announced",
+      "id": "devfest-2017-announced",
       "title": "GDG DevFest 2017 Announced",
       "posted": "2017-09-06",
       "primaryColor": "#00BCD4",
@@ -25,6 +25,15 @@
       "secondaryColor": "#3F51B5",
       "image": "/images/posts/c4p-is-open.jpg",
       "brief": "GDG DevFest Hyderabad 2017 is announced! The 6th edition of the biggest conference about Google technologies in Hyderabad will take on **4 November , 2017**. That means that it is time to open [call for talk submissions](https://goo.gl/KoHXXh)."
-    }
-  ]
+    },
+    {
+        "id": "inviting-startups-developers",
+        "title": "Inviting Startups & Developer Ninjas",
+        "posted": "2017-10-14",
+        "primaryColor": "#3F51B5",
+        "secondaryColor": "#3F51B5",
+        "image": "/images/posts/startup.jpg",
+        "brief": "DG Hyderabad is inviting applications from local startups and developer ninjas to participate at the  DevFest 2017 on 4th November 2017. The idea is to connect..."
+      }
+]
   
