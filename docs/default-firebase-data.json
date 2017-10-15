@@ -108,11 +108,11 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "Demystifying of Machine Learning in Real Time",
       "id" : 101,
-      "language" : " by Subhash Konda",
+      "language" : " by Subhash Konda, Software Developer Engineer II, Microsoft",
       "presentation" : "",
-      "speakers" : [ ],
+      "speakers" : [ 5 ],
       "tags" : [ "Machine Learning" ],
       "title" : "Code Lab on Machine Learning Latest trends"
     },
@@ -161,9 +161,9 @@
       "complexity" : "Beginner",
       "description" : "",
       "id" : 116,
-      "language" : "  by Gaurav Sharma, Sr. Development Engineer, Pramati Technologies ",
+      "language" : "by Gaurav Sharma, Sr. Development Engineer, Pramati Technologies ",
       "presentation" : "",
-      "speakers" : [ 14 ],
+      "speakers" : [ 4 ],
       "tags" : [ "Android" ],
       "title" : "Building Android App using Kotlin"
     },
@@ -349,7 +349,7 @@
     "badges" : [ {
       "description" : "Google Cloud Developer Expert",
       "link" : "https://developers.google.com/experts/people/janakiram-msv",
-      "name" : "GDE"
+      "name" : "Google Developer Expert"
     } ],
     "bio" : "Janakiram is an analyst, advisor and architect at Janakiram and Associates. He was the founder and CTO of Get Cloud Ready Consulting, a niche Cloud Migration and Cloud Operations firm acquired by Aditi Technologies. \n \n Through his speaking, writing and analysis, he helps businesses take advantage of the emerging technologies. Janakiram is also one of the first Microsoft Certified Windows Azure Professionals in India. He is one of the few professionals with Amazon Certified Solution Architect, Amazon Certified Developer and Amazon Certified SysOps Administrator credentials. Plus he's a Google Qualified Cloud Developer. Janakiram is recognised by Google as a Google Developer Expert (GDE) for his subject matter expertise. \n \n Janakiram is a senior analyst with Gigaom Research analyst network, where he analyzes the Cloud Services landscape. He is the technical editor at InfoQ, managing the cloud-related content. He is also a contributor at ComputerWeekly. Janakiram is a Guest Faculty at the International Institute of Information Technology (IIIT-H) where he teaches Big Data, Cloud Computing, Containers and DevOps and to the students enrolled for the Masters course.\n \n Janakiram has worked at world-class product companies including Microsoft Corporation, Amazon Web Services and Alcatel-Lucent. His last role was with Amazon Web Services as the Technology Evangelist where he joined them as the first employee in India. Prior to that, Janakiram spent 10 years at Microsoft Corporation where he was involved in selling, marketing and evangelizing the Microsoft Application Platform and Tools. At the time of leaving Microsoft, he was a Cloud Architect focused on Windows Azure.",
     "company" : "Janakiram & Associates",
@@ -377,9 +377,9 @@
     "title" : "Founder & Principal Analyst - Janakiram & Associates, Google Developer Expert"
   }, {
     "badges" : [ {
-      "description" : "Google Developers Group Hyderabad",
+      "description" : "GDG HYD Android User Club",
       "link" : "https://gdghyderabad.in/team/",
-      "name" : "GDG Hyderabad"
+      "name" : "GDG HYDROID"
     } ],
     "bio" : "I'm a technological enthusiast , full stack developer and father of most beautiful daughter.",
     "company" : "Pramati Technologies",
@@ -410,6 +410,11 @@
     "tags" : [ "Android", "Cloud", "Mean Stack" ],
     "title" : "Sr. Development Engineer, Pramati Technologies"
   }, {
+    "badges" : [ {
+        "description" : "Google Developers Group Hyderabad",
+        "link" : "https://gdghyderabad.in/team/",
+        "name" : "GDG Hyderabad"
+    } ],
     "bio" : "Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
     "company" : "Google Developers Group Hyderabad",
     "companyLogo" : "/images/logos/gdg-hyd.svg",
