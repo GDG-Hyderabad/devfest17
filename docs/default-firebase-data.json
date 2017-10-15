@@ -329,6 +329,23 @@
     "tags" : [ "Python", "Analytics","Predictive Modelling" ],
     "title" : "Data Scientist"
   }, {
+    "bio" : "Having 11+ years of experience, worked in India, US, Germany",
+    "company" : "Microsoft",
+    "companyLogo" : "/images/logos/microsoft.svg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Subhash Konda",
+    "photoUrl" : "/images/people/subhash.jpg",
+    "shortBio" : "Having 11+ years of experience, worked in India, US, Germany...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/subhashkonda",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "AngularJS", ".NET","Data Science" ],
+    "title" : "Software Developer Engineer II"
+  }, {
     "badges" : [ {
       "description" : "Google Cloud Developer Expert",
       "link" : "https://developers.google.com/experts/people/janakiram-msv",
@@ -358,6 +375,40 @@
     } ],
     "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
     "title" : "Founder & Principal Analyst - Janakiram & Associates, Google Developer Expert"
+  }, {
+    "badges" : [ {
+      "description" : "Google Developers Group Hyderabad",
+      "link" : "https://gdghyderabad.in/team/",
+      "name" : "GDG Hyderabad"
+    } ],
+    "bio" : "I'm a technological enthusiast , full stack developer and father of most beautiful daughter.",
+    "company" : "Pramati Technologies",
+    "companyLogo" : "/images/logos/pramati.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Gaurav Sharma",
+    "photoUrl" : "/images/people/gaurav.jpg",
+    "shortBio" : "I'm a technological enthusiast , full stack developer and father of most beautiful daughter",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/gaurav-sharma-0967b328/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/gauravsharma531",
+      "name" : "Twitter"
+    }, {
+        "icon" : "github",
+        "link" : "https://github.com/GauravSharma531",
+        "name" : "GitHub"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+GauravSharma531",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Android", "Cloud", "Mean Stack" ],
+    "title" : "Sr. Development Engineer, Pramati Technologies"
   }, {
     "bio" : "Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
     "company" : "Google Developers Group Hyderabad",
