@@ -5,6 +5,16 @@
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x",
       "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/gdg-hydroid.png",
+        "name" : "GDG Hydroid",
+        "url" : "https://www.facebook.com/Hydroid.GDG/",
+        "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/wtm-hyd.png",
+        "name" : "Women Techmakers",
+        "url" : "https://www.facebook.com/groups/323767527816650/",
+        "width" : 170
     } ],
     "title" : "Community Partners"
   }, {
