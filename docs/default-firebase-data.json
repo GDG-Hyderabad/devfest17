@@ -37,13 +37,13 @@
       "sessions" : [ [ 132 ] ],
       "startTime" : "08:30"
     }, {
-      "endTime" : "10:00",
+      "endTime" : "10:15",
       "sessions" : [ [ 136 ] ],
       "startTime" : "09:30"
     }, {
       "endTime" : "10:45",
       "sessions" : [ [ 139 ] ],
-      "startTime" : "10:00"
+      "startTime" : "10:15"
     }, {
         "endTime" : "11:00",
         "sessions" : [ [ 200 ] ],
