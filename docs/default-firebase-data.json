@@ -169,13 +169,13 @@
     },
     "118" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
+      "description" : "by Venkata Dinesh, Software Engineer, IVY Comptech",
       "id" : 118,
       "language" : "English",
-      "presentation" : "#",
-      "speakers" : [ 16 ],
+      "presentation" : "",
+      "speakers" : [ 6 ],
       "tags" : [ "Android" ],
-      "title" : "Session VIII"
+      "title" : "Flutter the Future of Mobile Development?"
     },
     "210" : {
         "complexity" : "Beginner",
@@ -431,6 +431,28 @@
     } ],
     "tags" : [ "Web","Machine Learning" ],
     "title" : "Xoogle & Community Co-Lead, GDG Hyderabad" 
+  }, {
+    "badges" : [ {
+      "description" : "GDG Android User Club",
+      "link" : "https://gdghyderabad.in/team/",
+      "name" : "GDG Hydroid"
+    } ],
+    "bio" : "Session to explore the true potential of flutter for cross platform development.",
+    "company" : "IVY Comptech",
+    "companyLogo" : "/images/logos/ivy.png",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 6,
+    "name" : "Venkata Dinesh Kotaru",
+    "photoUrl" : "/images/people/Venkata_Dinesh.jpg",
+    "shortBio" : "Technology Enthusiast & Android Developer",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/venkata-dinesh-kotturu-4b2ab931/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "Software Engineer, IVY Comptech"
   } ],
   "team" : [ {
     "members" : [ {
