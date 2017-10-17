@@ -142,20 +142,20 @@
       "description" : "Fuelio. Success story (I'll write more info later)",
       "id" : 106,
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
+      "presentation" : "",
       "speakers" : [ 5 ],
       "tags" : [ "Android" ],
       "title" : "Closing Remarks",
-      "videoId" : "#"
+      "videoId" : ""
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "#",
+      "description" : "The session will mostly be about the talk-back accessibility feature that is used in the android smart phones to make the phones usable by users who suffer from visual impairment. I would discuss the problems faced by them and how can designers and developers make their experience better.",
       "id" : 112,
       "language" : "English",
-      "speakers" : [ 10 ],
-      "tags" : [ "Web" ],
-      "title" : "Session XII"
+      "speakers" : [ 9 ],
+      "tags" : [ "Android" ],
+      "title" : "Accessibility"
     },
     "116" : {
       "complexity" : "Beginner",
@@ -267,12 +267,12 @@
         "title" : "Tea Break & Networking"
     },
     "202" : {
-        "description" : "",
+        "description" : "In this session we will learn about the new technology set Web Components including Custom Elements & Shadow DOM spec. We will also work on a hands on tutorial in creating our first ever fully inoperable web app which can work without any framework.",
         "id" : 202,
         "image" : "/images/backgrounds/party.jpg",
-        "background" : "linear-gradient(to top, #30cfd0 0%, #330867 100%);",
-        "language" : "English",
-        "title" : "Code Lab on Polymer 2 & Web Components"
+        "speakers" : [ 8 ],
+        "language" : "by Rahat Khanna",
+        "title" : "Way forward for inoperable web apps - PolymerJS & Web Components"
     },
     "204" : {
         "description" : "",
@@ -338,6 +338,40 @@
     "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
     "title" : "Founder & Principal Analyst - Janakiram & Associates, Google Developer Expert"
   }, {
+    "bio" : "I am a UI Developer working with Apple Inc, previously have worked with Flipkart & Genpact. Sound expertise on Front End Technologies having a vast experience of developing 200+ websites, building numerous Enterprise Hybrid Mobile Apps, architecting User Interface Solutions, authoring a popular book on Ionic Framework and conducting 30+ Global Trainings on latest frameworks and technology tools. \n \n International Trainer for Ionic/Cordova & Angular - Invited by MIMOS, Malaysia (Funded by Ministry of Science & Technology, Malaysian Govt) for Training Workshop",
+    "company" : "GDG Hyderabad",
+    "companyLogo" : "/images/logos/gdg-hyd.svg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Rahat Khanna",
+    "photoUrl" : "/images/people/rahat.jpg",
+    "shortBio" : " am a UI Developer working with Apple Inc, previously have worked with Flipkart & Genpact. Sound expertise on Front End Technologies having a vast experience of developing 200+ websites, building numerous Enterprise Hybrid Mobile Apps, architecting User Interface Solutions, authoring a popular book on Ionic...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://linkedin.com/in/rahatkh",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "AngularJS", "JavaScript", "CSS3","React", "Ionic", "Polymer" ],
+    "title" : "Software Engineer"
+  }, {
+    "bio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College.\n \n My passion lies in the field of research for users with special abilities and cognitive science.",
+    "company" : "Phenom People Private Limiited",
+    "companyLogo" : "/images/logos/phenom.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Aditi Chansoria",
+    "photoUrl" : "/images/people/aditi.jpg",
+    "shortBio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College....",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/aditi-chansoria-5a871448",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "User Research and Analysis", "Accessible Design", "Wire-framing and Prototyping", "Eye Tracking", "Chatbots"],
+    "title" : "UX Designer- Product"
+  }, {
     "bio" : "Having 11+ years of experience, worked in India, US, Germany",
     "company" : "Microsoft",
     "companyLogo" : "/images/logos/microsoft.svg",
@@ -398,7 +432,7 @@
       "link" : "https://plus.google.com/raj7desai",
       "name" : "Google+"
     } ],
-    "tags" : [ "Python", "Javascript", "Artificial Intelligence", "Machine Learning", "RoR" ],
+    "tags" : [ "Python", "JavaScript", "Artificial Intelligence", "Machine Learning", "RoR" ],
     "title" : "Co-Founder, School of Accelerated Learning"
   }, {
     "badges" : [ {
