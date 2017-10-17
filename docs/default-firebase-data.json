@@ -58,7 +58,7 @@
         "startTime" : "11:45"
     }, {
         "endTime" : "13:00",
-        "sessions" : [ [ 206 ], [210] ],
+        "sessions" : [ [210] ],
         "startTime" : "12:30"
     }, {
         "endTime" : "13:45",
@@ -108,13 +108,13 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "Demystifying of Machine Learning in Real Time",
+      "description" : "",
       "id" : 101,
-      "language" : " by Subhash Konda, Software Developer Engineer II, Microsoft",
+      "language" : "by Neil Ghosh",
       "presentation" : "",
-      "speakers" : [ 5 ],
+      "speakers" : [ ],
       "tags" : [ "Machine Learning" ],
-      "title" : "Code Lab on Machine Learning Latest trends"
+      "title" : "Voice Actions in Google"
     },
     "103" : {
       "complexity" : "Intermediate",
@@ -132,7 +132,7 @@
       "id" : 105,
       "language" : "English",
       "presentation" : "#",
-      "speakers" : [ 4 ],
+      "speakers" : [ ],
       "tags" : [ "Cloud" ],
       "title" : "Session XI",
       "videoId" : "#"
@@ -185,7 +185,7 @@
         "image" : "/images/backgrounds/keynote.jpg",
         "presentation" : "#",
         "speakers" : [ 18 ],
-        "title" : "Startup/ Dev Talent "
+        "title" : "Code Lab on Tensor Flow by  Raj Desai"
       },
     "120" : {
       "complexity" : "Beginner",
@@ -297,13 +297,13 @@
     },
     "140" : {
         "complexity" : "Intermediate",
-        "description" : "#",
+        "description" : "Demystifying of Machine Learning in Real Time",
         "id" : 140,
-        "language" : "by Raj Desai",
+        "language" : "by Subhash Konda",
         "presentation" : "#",
-        "speakers" : [ 23 ],
-        "tags" : [ "Tensor Flow" ],
-        "title" : "Code Lab on Tensor Flow",
+        "speakers" : [ 5 ],
+        "tags" : [ "Machine Learning" ],
+        "title" : "Code Lab on Machine Learning Latest trends",
         "videoId" : "#"
     }
   },
