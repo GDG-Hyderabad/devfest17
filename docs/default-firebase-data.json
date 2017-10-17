@@ -179,13 +179,13 @@
     },
     "210" : {
         "complexity" : "Beginner",
-        "description" : "#",
+        "description" : "by Raj Desai,Co-Founder, School of Accelerated Learning",
         "id" : 210,
         "language" : "English",
         "image" : "/images/backgrounds/keynote.jpg",
-        "presentation" : "#",
-        "speakers" : [ 18 ],
-        "title" : "Code Lab on Tensor Flow by  Raj Desai"
+        "presentation" : "",
+        "speakers" : [ 7 ],
+        "title" : "Building a Neural Network with TensorFlow"
       },
     "120" : {
       "complexity" : "Beginner",
@@ -308,44 +308,6 @@
     }
   },
   "speakers" : [ null, {
-    "bio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major colleges. Handled 50+ Sessions. Recently received certification of appreciation Vision INDIA foundation.",
-    "company" : "Kony",
-    "companyLogo" : "/images/logos/kony.svg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 2,
-    "name" : "Madhu Vadlamani",
-    "photoUrl" : "/images/people/Madhu.jpg",
-    "shortBio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major...",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/madhuvad/",
-      "name" : "LinkedIn"
-    }, {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/madhuvadlamani7",
-      "name" : "Facebook"
-    } ],
-    "tags" : [ "Python", "Analytics","Predictive Modelling" ],
-    "title" : "Data Scientist"
-  }, {
-    "bio" : "Having 11+ years of experience, worked in India, US, Germany",
-    "company" : "Microsoft",
-    "companyLogo" : "/images/logos/microsoft.svg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 5,
-    "name" : "Subhash Konda",
-    "photoUrl" : "/images/people/subhash.jpg",
-    "shortBio" : "Having 11+ years of experience, worked in India, US, Germany...",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/subhashkonda",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "AngularJS", ".NET","Data Science" ],
-    "title" : "Software Developer Engineer II"
-  }, {
     "badges" : [ {
       "description" : "Google Cloud Developer Expert",
       "link" : "https://developers.google.com/experts/people/janakiram-msv",
@@ -375,6 +337,69 @@
     } ],
     "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
     "title" : "Founder & Principal Analyst - Janakiram & Associates, Google Developer Expert"
+  }, {
+    "bio" : "Having 11+ years of experience, worked in India, US, Germany",
+    "company" : "Microsoft",
+    "companyLogo" : "/images/logos/microsoft.svg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Subhash Konda",
+    "photoUrl" : "/images/people/subhash.jpg",
+    "shortBio" : "Having 11+ years of experience, worked in India, US, Germany...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/subhashkonda",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "AngularJS", ".NET","Data Science" ],
+    "title" : "Software Developer Engineer II"
+  },{
+    "bio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major colleges. Handled 50+ Sessions. Recently received certification of appreciation Vision INDIA foundation.",
+    "company" : "Kony",
+    "companyLogo" : "/images/logos/kony.svg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Madhu Vadlamani",
+    "photoUrl" : "/images/people/Madhu.jpg",
+    "shortBio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/madhuvad/",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/madhuvadlamani7",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "Python", "Analytics","Predictive Modelling" ],
+    "title" : "Data Scientist"
+  }, {
+    "bio" : "Serial Tech Entrepreneur. FullStack Developer. Currently runs SOAL- a new age system of learning designed for the future of technology.",
+    "company" : "School of Accelerated Learning",
+    "companyLogo" : "/images/logos/soal.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 7,
+    "name" : "Raj Desai ",
+    "photoUrl" : "/images/people/raj.jpg",
+    "shortBio" : "Serial Tech Entrepreneur. FullStack Developer. Currently runs SOAL- a new age system of learning...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "http://www.linkedin.com/in/raj7desai",
+      "name" : "LinkedIn"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/raj7desai",
+      "name" : "Twitter"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/raj7desai",
+      "name" : "Google+"
+    } ],
+    "tags" : [ "Python", "Javascript", "Artificial Intelligence", "Machine Learning", "RoR" ],
+    "title" : "Co-Founder, School of Accelerated Learning"
   }, {
     "badges" : [ {
       "description" : "GDG HYD Android User Club",
