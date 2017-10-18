@@ -22,6 +22,8 @@ With a common aim to forge the essence of open innovation and to build a strong 
 * Spread the word using the hashtags <b><i>#gdghyddevfest17</b></i> <b><i>#gdghyd</b></i> <b><i>#gdg</b></i> <b><i>#devfest17</b></i>
 * Community Engagement and Outreach
 
+</br>
+
 <div class="text-center">
 <a href="https://goo.gl/Z5SQ79" target="_blank" class="style-scope header-content" style="color: white; ">
   <paper-button class="primary style-scope header-content x-scope paper-button-0" raised="" role="button" tabindex="0" animated="" aria-disabled="false" elevation="1">Become a partner</paper-button>
