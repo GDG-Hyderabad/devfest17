@@ -34,6 +34,15 @@
         "secondaryColor": "#E62565",
         "image": "/images/posts/startup.jpg",
         "brief": "GDG Hyderabad is inviting applications from local startups and developer ninjas to participate at the  <b>DevFest 2017</b> on <b>4th November 2017.</b> The idea is to connect right developers with startups that enable day to day business operations..."
-      }
+    },
+    {
+        "id": "community-partnership",
+        "title": "Inviting Community Partners",
+        "posted": "2017-10-18",
+        "primaryColor": "##3F51B5",
+        "secondaryColor": "#FFD600",
+        "image": "/images/posts/community.jpg",
+        "brief": "Google Developers Group Hyderabad welcomes all the local developer communities of the city to partner with us for our annual global event - DevFest 2017.With a common aim to forge the essence of open innovation and to build a strong developers community, we seek your help in reaching out..."
+    }
 ]
   
