@@ -1,6 +1,17 @@
 {
   "partners" : [ {
     "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/google-developers.svg",
+      "name" : "Google Developers",
+      "url" : "https://developers.google.com/"
+    }],
+    "title" : "General Sponsors"
+   }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x",
@@ -32,17 +43,6 @@
         "width" : 170
     } ],
     "title" : "Community Partners"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/google-developers.svg",
-      "name" : "Google Developers",
-      "url" : "https://developers.google.com/"
-    }],
-    "title" : "General Sponsors & Partners"
   } ],
   "schedule" : [ {
     "date" : "2017-11-04",
@@ -315,11 +315,11 @@
         "description" : "Demystifying of Machine Learning in Real Time",
         "id" : 140,
         "language" : "by Subhash Konda",
-        "presentation" : "#",
+        "presentation" : "",
         "speakers" : [ 5 ],
         "tags" : [ "Machine Learning" ],
         "title" : "Code Lab on Machine Learning Latest trends",
-        "videoId" : "#"
+        "videoId" : ""
     }
   },
   "speakers" : [ null, {
