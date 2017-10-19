@@ -221,11 +221,11 @@
       "complexity" : "Beginner",
       "description" : "",
       "id" : 129,
-      "language" : "by Anudeep Sai N, Xoogler , Commuity Co-Lead, GDG Hyderabad",
+      "language" : "by Syed Anwaarullah, Founder , PotentialLabs",
       "presentation" : "",
       "speakers" : [ 3 ],
       "tags" : [ "Machine Learning" ],
-      "title" : "Getting Started with Google Assistant"
+      "title" : "DIY Google Home with Google Assistant on a Raspberry Pi"
     },
     "132" : {
       "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
