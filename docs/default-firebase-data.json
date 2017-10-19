@@ -27,6 +27,11 @@
         "url" : "https://www.facebook.com/groups/323767527816650/",
         "width" : 170
     }, {
+        "logoUrl" : "../images/logos/osdg.png",
+        "name" : "OSDG - IIIT Hyderabad",
+        "url" : "https://osdg.iiit.ac.in/",
+        "width" : 170
+    }, {
         "logoUrl" : "../images/logos/coderplex.png",
         "name" : "Coderplex",
         "url" : "https://www.facebook.com/coderplex/",

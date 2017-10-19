@@ -4,7 +4,7 @@
   "endDate": "2017-09-10T19:00:00+03:00",
   "analytics": {
     "prod": "UA-108388789-1",
-    "dev": "#"
+    "dev": ""
   },
   "organizer": {
     "name": "GDG Hyderabad",
