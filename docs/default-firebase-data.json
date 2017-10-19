@@ -108,11 +108,11 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "Demo of building your own Google Aassistant Actions using DialogFlow (formerly API.AI).",
       "id" : 101,
       "language" : "by Neil Ghosh",
       "presentation" : "",
-      "speakers" : [ ],
+      "speakers" : [10],
       "tags" : [ "Machine Learning" ],
       "title" : "Voice Actions in Google"
     },
@@ -388,6 +388,23 @@
     } ],
     "tags" : [ "AngularJS", ".NET","Data Science" ],
     "title" : "Software Developer Engineer II"
+  }, {
+    "bio" : "Neil currently works at JDA Software building next generation enterprise product leveraging Google cloud platform. In the past he has worked at Oracle and Electronic Arts building highly scalable web services.",
+    "company" : "JDA Software",
+    "companyLogo" : "/images/logos/jda.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 10,
+    "name" : "Neil Ghosh",
+    "photoUrl" : "/images/people/neil.jpg",
+    "shortBio" : "Neil currently works at JDA Software building next generation enterprise product leveraging Google cloud...",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/neilghosh/",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "Cloud", "Databases", "Machine Learning", "NoSQL" ],
+    "title" : "Senior Technical Architect"
   },{
     "bio" : "A analytics expertise with 9+yrs exp and trainer mentor for startups and major colleges. Handled 50+ Sessions. Recently received certification of appreciation Vision INDIA foundation.",
     "company" : "Kony",
