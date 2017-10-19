@@ -15,6 +15,21 @@
         "name" : "Women Techmakers",
         "url" : "https://www.facebook.com/groups/323767527816650/",
         "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/coderplex.png",
+        "name" : "Coderplex",
+        "url" : "https://www.facebook.com/coderplex/",
+        "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/thehackingschool.png",
+        "name" : "The Hacking School",
+        "url" : "https://www.facebook.com/thehackingschool/",
+        "width" : 170
+    }, {
+        "logoUrl" : "../images/logos/festsinfo.png",
+        "name" : "Fests Info",
+        "url" : "http://fests.info/",
+        "width" : 170
     } ],
     "title" : "Community Partners"
   }, {
