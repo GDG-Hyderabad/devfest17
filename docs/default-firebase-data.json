@@ -287,12 +287,12 @@
         "title" : "Tea Break & Networking"
     },
     "202" : {
-        "description" : "In this session we will learn about the new technology set Web Components including Custom Elements & Shadow DOM spec. We will also work on a hands on tutorial in creating our first ever fully inoperable web app which can work without any framework.",
+        "description" : "",
         "id" : 202,
         "image" : "/images/backgrounds/party.jpg",
-        "speakers" : [ 8 ],
-        "language" : "by Rahat Khanna",
-        "title" : "Way forward for inoperable web apps - PolymerJS & Web Components"
+        "speakers" : [ ],
+        "language" : "by",
+        "title" : "Session II"
     },
     "204" : {
         "description" : "",
@@ -357,23 +357,6 @@
     } ],
     "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
     "title" : "Founder & Principal Analyst - Janakiram & Associates"
-  }, {
-    "bio" : "I am a UI Developer working with Apple Inc, previously have worked with Flipkart & Genpact. Sound expertise on Front End Technologies having a vast experience of developing 200+ websites, building numerous Enterprise Hybrid Mobile Apps, architecting User Interface Solutions, authoring a popular book on Ionic Framework and conducting 30+ Global Trainings on latest frameworks and technology tools. \n \n International Trainer for Ionic/Cordova & Angular - Invited by MIMOS, Malaysia (Funded by Ministry of Science & Technology, Malaysian Govt) for Training Workshop",
-    "company" : "GDG Hyderabad",
-    "companyLogo" : "/images/logos/gdg-hyd.svg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 8,
-    "name" : "Rahat Khanna",
-    "photoUrl" : "/images/people/rahat.jpg",
-    "shortBio" : "I am a UI Developer working with Apple Inc, previously have worked with Flipkart & Genpact. Sound expertise on Front End Technologies having a vast experience of developing 200+ websites, building numerous Enterprise Hybrid Mobile Apps, architecting User Interface Solutions, authoring a popular book on Ionic...",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://linkedin.com/in/rahatkh",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "AngularJS", "JavaScript", "CSS3","React", "Ionic", "Polymer" ],
-    "title" : "Software Engineer"
   }, {
     "bio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College.\n \n My passion lies in the field of research for users with special abilities and cognitive science.",
     "company" : "Phenom People Private Limiited",
