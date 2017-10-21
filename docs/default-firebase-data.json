@@ -32,6 +32,11 @@
         "url" : "https://osdg.iiit.ac.in/",
         "width" : 170
     }, {
+        "logoUrl" : "../images/logos/nghyd.png",
+        "name" : "AngularJS Hyderabad",
+        "url" : "https://www.meetup.com/nghyderabad/",
+        "width" : 170
+    }, {
         "logoUrl" : "../images/logos/coderplex.png",
         "name" : "Coderplex",
         "url" : "https://www.facebook.com/coderplex/",
