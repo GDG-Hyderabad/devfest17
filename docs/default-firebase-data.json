@@ -397,6 +397,31 @@
     "tags" : [ "AngularJS", ".NET","Data Science" ],
     "title" : "Software Developer Engineer II"
   }, {
+    "bio" : "A hardcore Maker, Tinkerer and Entrepreneur helping build affordable Solutions, Embedded/IoT Platforms and Products in pursuit of my vision <b>Driving Human Potential​</b>. Also a fullStack Engineer ☻. Think and build across many verticals of Technology --​> Web, Mobile, Hardware, IoT, AI/ML, AR/VR etc^1/0. \n \n Areas I'm fascinated about: AI/ML, NLP, Chatbots, Blockchains & Humans.",
+    "company" : "Google Developers Group Hyderabad",
+    "companyLogo" : "/images/logos/potentiallabs.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Syed Anwaarullah",
+    "photoUrl" : "/images/people/syed.jpg",
+    "shortBio" : "A hardcore Maker, Tinkerer and Entrepreneur helping build affordable Solutions, Embedded/IoT Platforms and Products in pursuit of my vision <b>Driving Human Potential​</b>. Also a fullStack...",
+    "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/Anwaarullah",
+        "name" : "Twitter"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/anwaarullah/",
+        "name" : "LinkedIn"
+      }, {
+      "icon" : "github",
+      "link" : "https://github.com/anwaarullah",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "Embedded", "IoT", "Web", "Mobile","Machine Learning","Artificial Intelligence" ],
+    "title" : "Founder, PotentialLabs" 
+  }, {
     "bio" : "Neil currently works at JDA Software building next generation enterprise product leveraging Google cloud platform. In the past he has worked at Oracle and Electronic Arts building highly scalable web services.",
     "company" : "JDA Software",
     "companyLogo" : "/images/logos/jda.jpg",
@@ -493,29 +518,7 @@
     } ],
     "tags" : [ "Android", "Cloud", "Mean Stack" ],
     "title" : "Sr. Development Engineer, Pramati Technologies"
-  }, {
-    "badges" : [ {
-        "description" : "Google Developers Group Hyderabad",
-        "link" : "https://gdghyderabad.in/team/",
-        "name" : "GDG Hyderabad"
-    } ],
-    "bio" : "Xoogler & passionate about open source, web development ,photography and a great lover of linux.",
-    "company" : "Google Developers Group Hyderabad",
-    "companyLogo" : "/images/logos/gdg-hyd.svg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 3,
-    "name" : "Anudeep Sai N",
-    "photoUrl" : "/images/people/Anudeep_Sai.jpg",
-    "shortBio" : "Xoogler & passionate about open source, web development ,photography ...",
-    "socials" : [ {
-      "icon" : "website",
-      "link" : "https://medium.com/@anudeepsai/",
-      "name" : "Website"
-    } ],
-    "tags" : [ "Web","Machine Learning" ],
-    "title" : "Xoogle & Community Co-Lead, GDG Hyderabad" 
-  }, {
+  },{
     "badges" : [ {
       "description" : "GDG Android User Club",
       "link" : "https://gdghyderabad.in/team/",
