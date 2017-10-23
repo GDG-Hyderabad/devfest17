@@ -279,7 +279,7 @@
       "id" : 139,
       "image" : "/images/backgrounds/keynote.jpg",
       "language" : "English",
-      "title" : "TensorFlow Session"
+      "title" : "Session II"
     },
     "200" : {
         "description" : "",
@@ -293,7 +293,7 @@
         "image" : "/images/backgrounds/party.jpg",
         "speakers" : [ ],
         "language" : "by",
-        "title" : "Session II"
+        "title" : "Session III"
     },
     "204" : {
         "description" : "",
