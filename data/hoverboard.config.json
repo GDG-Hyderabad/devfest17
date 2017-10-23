@@ -88,18 +88,18 @@
     "address": "Telangana, India",
     "link": "https://en.wikipedia.org/wiki/Hyderabad",
     "pointer": {
-      "latitude": 17.4125003,
-      "longitude": 78.3380062,
+      "latitude": 17.4583469,
+      "longitude": 78.3723681,
       "zoom": 13
     },
     "mapCenter": {
-      "latitude": 17.4125003,
-      "longitude": 78.3380062
+      "latitude": 17.4583469,
+      "longitude": 78.3723681
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/google_1.jpg",
+      "/images/backgrounds/google_2.jpg",
+      "/images/backgrounds/google_3.jpg"
     ]
   },
   "gallery": {
