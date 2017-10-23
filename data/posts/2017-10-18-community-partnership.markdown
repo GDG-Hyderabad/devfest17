@@ -1,5 +1,5 @@
 
-<a href="https://www.gdghyderabad.in" target="_blank"><b>Google Developers Group Hyderabad</b></a> welcomes all the local developer communities of the city to partner with us for our annual global event - DevFest 2017. The 6th season will be hosted on November 4, 2017 at Google Hyderabad (Tentative). 
+<a href="https://www.gdghyderabad.in" target="_blank"><b>Google Developers Group Hyderabad</b></a> welcomes all the local developer communities of the city to partner with us for our annual global event - DevFest 2017. The 6th season will be hosted on November 4, 2017 at Google Hyderabad. 
 
 Every year, DevFests are celebrated by more than 300+ Google Developers Group Chapters worldwide; featuring speakers who address cutting-edge innovations in new technologies and developer’s centric content on Google technologies and Open source. The events include a series of uber cool tech-talks, hands-on sessions on latest technologies, code labs and all through the way it will be fun and interactive. Infotainment is the anthem of our event. Ranging from Android to Machine Learning, we ensure a perfect amalgamation of diverse topics from the developer’s world. 
 
