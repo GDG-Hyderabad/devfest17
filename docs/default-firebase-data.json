@@ -86,13 +86,9 @@
         "sessions" : [ [210] ],
         "startTime" : "12:30"
     }, {
-        "endTime" : "13:45",
+        "endTime" : "14:00",
         "sessions" : [ [ 208 ] ],
         "startTime" : "13:00"
-    }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 103 ], [ 120 ] ],
-      "startTime" : "13:45"
     }, {
       "endTime" : "14:45",
       "sessions" : [ [ 129 ], [ 116 ] ],
@@ -180,7 +176,7 @@
       "language" : "English",
       "speakers" : [ 9 ],
       "tags" : [ "Android" ],
-      "title" : "Accessibility"
+      "title" : "Accessibility Design"
     },
     "116" : {
       "complexity" : "Beginner",
@@ -265,12 +261,12 @@
       "title" : "Coffee break & Networking"
     },
     "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+      "description" : "",
       "id" : 136,
-      "speakers" : [ 1 ],
+      "speakers" : [ ],
       "image" : "/images/backgrounds/opening.jpg",
-      "language" : "by Janakiram MSV, Founder & Principal Analyst, Janakiram & Associates",
-      "title" : "Keynote Address - Google's Artifical Intelligence"
+      "language" : "",
+      "title" : "Session I"
     },
     "137" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
@@ -333,53 +329,6 @@
     }
   },
   "speakers" : [ null, {
-    "badges" : [ {
-      "description" : "Google Cloud Developer Expert",
-      "link" : "https://developers.google.com/experts/people/janakiram-msv",
-      "name" : "GDE"
-    } ],
-    "bio" : "Janakiram is an analyst, advisor and architect at Janakiram and Associates. He was the founder and CTO of Get Cloud Ready Consulting, a niche Cloud Migration and Cloud Operations firm acquired by Aditi Technologies. \n \n Through his speaking, writing and analysis, he helps businesses take advantage of the emerging technologies. Janakiram is also one of the first Microsoft Certified Windows Azure Professionals in India. He is one of the few professionals with Amazon Certified Solution Architect, Amazon Certified Developer and Amazon Certified SysOps Administrator credentials. Plus he's a Google Qualified Cloud Developer. Janakiram is recognised by Google as a Google Developer Expert (GDE) for his subject matter expertise. \n \n Janakiram is a senior analyst with Gigaom Research analyst network, where he analyzes the Cloud Services landscape. He is the technical editor at InfoQ, managing the cloud-related content. He is also a contributor at ComputerWeekly. Janakiram is a Guest Faculty at the International Institute of Information Technology (IIIT-H) where he teaches Big Data, Cloud Computing, Containers and DevOps and to the students enrolled for the Masters course.\n \n Janakiram has worked at world-class product companies including Microsoft Corporation, Amazon Web Services and Alcatel-Lucent. His last role was with Amazon Web Services as the Technology Evangelist where he joined them as the first employee in India. Prior to that, Janakiram spent 10 years at Microsoft Corporation where he was involved in selling, marketing and evangelizing the Microsoft Application Platform and Tools. At the time of leaving Microsoft, he was a Cloud Architect focused on Windows Azure.",
-    "company" : "Janakiram & Associates",
-    "companyLogo" : "/images/logos/janakiram.jpg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 1,
-    "name" : "Janakiram MSV",
-    "photoUrl" : "/images/people/janakirammsv.jpg",
-    "shortBio" : "Janakiram is an analyst, advisor and architect at Janakiram and Associates. He was the founder and CTO of Get Cloud Ready Consulting, a niche Cloud Migration...",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "http://www.linkedin.com/in/janakiramm",
-      "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/janakiramm",
-      "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/114075011573297290846",
-      "name" : "Google+"
-    } ],
-    "tags" : [ "Cloud", "SaaS", "Distributed Computing" ],
-    "title" : "Founder & Principal Analyst - Janakiram & Associates"
-  }, {
-    "bio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College.\n \n My passion lies in the field of research for users with special abilities and cognitive science.",
-    "company" : "Phenom People Private Limiited",
-    "companyLogo" : "/images/logos/phenom.jpg",
-    "country" : "Hyderabad, Telangana",
-    "featured" : true,
-    "id" : 9,
-    "name" : "Aditi Chansoria",
-    "photoUrl" : "/images/people/aditi.jpg",
-    "shortBio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College....",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/aditi-chansoria-5a871448",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "User Research and Analysis", "Accessible Design", "Wire-framing and Prototyping", "Eye Tracking", "Chatbots"],
-    "title" : "UX Designer- Product"
-  }, {
     "bio" : "Having 11+ years of experience, worked in India, US, Germany",
     "company" : "Microsoft",
     "companyLogo" : "/images/logos/microsoft.svg",
@@ -396,6 +345,23 @@
     } ],
     "tags" : [ "AngularJS", ".NET","Data Science" ],
     "title" : "Software Developer Engineer II"
+  },{
+    "bio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College.\n \n My passion lies in the field of research for users with special abilities and cognitive science.",
+    "company" : "Phenom People Private Limiited",
+    "companyLogo" : "/images/logos/phenom.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Aditi Chansoria",
+    "photoUrl" : "/images/people/aditi.jpg",
+    "shortBio" : "I am a User Experience designer and accessibility researcher . I have done my post graduation from IIITDM, Jabalpur after completing my graduation from Jabalpur Engineering College....",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/aditi-chansoria-5a871448",
+      "name" : "LinkedIn"
+    } ],
+    "tags" : [ "User Research and Analysis", "Accessible Design", "Wire-framing and Prototyping", "Eye Tracking", "Chatbots"],
+    "title" : "UX Designer- Product"
   }, {
     "bio" : "A hardcore Maker, Tinkerer and Entrepreneur helping build affordable Solutions, Embedded/IoT Platforms and Products in pursuit of my vision <b>Driving Human Potential​</b>. Also a fullStack Engineer ☻. Think and build across many verticals of Technology --​> Web, Mobile, Hardware, IoT, AI/ML, AR/VR etc^1/0. \n \n Areas I'm fascinated about: AI/ML, NLP, Chatbots, Blockchains & Humans.",
     "company" : "Google Developers Group Hyderabad",
