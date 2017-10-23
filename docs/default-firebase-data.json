@@ -62,13 +62,13 @@
       "sessions" : [ [ 132 ] ],
       "startTime" : "08:30"
     }, {
-      "endTime" : "10:15",
+      "endTime" : "10:00",
       "sessions" : [ [ 136 ] ],
       "startTime" : "09:30"
     }, {
       "endTime" : "10:45",
       "sessions" : [ [ 139 ] ],
-      "startTime" : "10:15"
+      "startTime" : "10:00"
     }, {
         "endTime" : "11:00",
         "sessions" : [ [ 200 ] ],
@@ -107,11 +107,11 @@
       "startTime" : "16:15"
     }, {
       "endTime" : "17:15",
-      "sessions" : [ [ 105 ] ],
+      "sessions" : [ [ 112 ] ],
       "startTime" : "16:30"
     }, {
       "endTime" : "18:00",
-      "sessions" : [ [ 112 ] ],
+      "sessions" : [ [ 105 ] ],
       "startTime" : "17:15"
     }, {
       "endTime" : "18:15",
@@ -258,7 +258,7 @@
       "description" : "Coffeeeeeee!",
       "id" : 134,
       "image" : "/images/backgrounds/coffee-break.jpg",
-      "title" : "Coffee break & Networking"
+      "title" : "Coffee Break & Networking"
     },
     "136" : {
       "description" : "",
@@ -301,7 +301,7 @@
         "speakers" : [ 2 ],
         "image" : "/images/backgrounds/registration.jpg",
         "language" : "by Madhu Vadlamani, Data Scientist, Kony",
-        "title" : "The developers view of design - The new mindset which can make things easy"
+        "title" : "The Developers View of Design - The New Mindset Which Can Make Things Easy"
     },
     "206" : {
         "description" : "",
