@@ -293,7 +293,7 @@
         "title" : "Tea Break & Networking"
     },
     "202" : {
-        "description" : "I am going to do show and tell about things I have built so far using just CSS. Also, I am gonna be talking about latest CSS capabilities & a little demo to built something cool, really fast, using CSS.",
+        "description" : "I am going to do show and tell about things I have built so far using just CSS. Also, I am gonna be talking about latest CSS capabilities & a little demo to build something cool, really fast, using CSS.",
         "id" : 202,
         "image" : "/images/backgrounds/party.jpg",
         "speakers" : [ 11 ],
