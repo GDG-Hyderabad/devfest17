@@ -80,7 +80,7 @@
         "startTime" : "10:45"
     }, {
         "endTime" : "11:45",
-        "sessions" : [ [ 202 ] ],
+        "sessions" : [ [ 210 ] ],
         "startTime" : "11:00"
     }, {
         "endTime" : "12:30",
@@ -88,7 +88,7 @@
         "startTime" : "11:45"
     }, {
         "endTime" : "13:00",
-        "sessions" : [ [210] ],
+        "sessions" : [ [202] ],
         "startTime" : "12:30"
     }, {
         "endTime" : "14:00",
