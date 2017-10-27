@@ -205,9 +205,9 @@
     },
     "210" : {
         "complexity" : "Beginner",
-        "description" : "by Raj Desai,Co-Founder, School of Accelerated Learning",
+        "description" : "An overview of how we can build and run a neural network using the tools provided by TensorFlow",
         "id" : 210,
-        "language" : "English",
+        "language" : "by Raj Desai,Co-Founder, School of Accelerated Learning",
         "image" : "/images/backgrounds/keynote.jpg",
         "presentation" : "",
         "speakers" : [ 7 ],
