@@ -293,12 +293,12 @@
         "title" : "Tea Break & Networking"
     },
     "202" : {
-        "description" : "",
+        "description" : "I am going to do show and tell about things I have built so far using just CSS. Also, I am gonna be talking about latest CSS capabilities & a little demo to built something cool, really fast, using CSS.",
         "id" : 202,
         "image" : "/images/backgrounds/party.jpg",
         "speakers" : [ ],
-        "language" : "by",
-        "title" : "Session III"
+        "language" : "by Praveen Puglia, Senior Software Engineer, Joveo Technologies",
+        "title" : "CSS is Awesome"
     },
     "204" : {
         "description" : "",
@@ -455,6 +455,31 @@
     } ],
     "tags" : [ "Python", "JavaScript", "Artificial Intelligence", "Machine Learning", "RoR" ],
     "title" : "Co-Founder, School of Accelerated Learning"
+  }, {
+    "bio" : "Not Superman. Not Batman. Love #CSS. A lot ❤.",
+    "company" : "Joveo Technologies",
+    "companyLogo" : "/images/logos/joveo.jpg",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 9,
+    "name" : "Praveen Puglia ",
+    "photoUrl" : "/images/people/praveen.jpg",
+    "shortBio" : "Not Superman. Not Batman. Love #CSS. A lot ❤ ...",
+    "socials" : [ {
+      "icon" : "website",
+      "link" : "https://codepen.io/praveenpuglia",
+      "name" : "Website"
+    }, {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/praveenpuglia",
+      "name" : "Twitter"
+    }, {
+      "icon" : "github",
+      "link" : "https://github.com/praveenpuglia",
+      "name" : "GitHub"
+    } ],
+    "tags" : [ "CSS", "HTML", "JavaScript", "Web Components", "VueJS", "Polymer" ],
+    "title" : "Senior Software Engineer, Joveo Technologies"
   }, {
     "badges" : [ {
       "description" : "GDG HYD Android User Club",
