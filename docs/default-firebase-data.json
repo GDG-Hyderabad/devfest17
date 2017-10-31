@@ -234,14 +234,14 @@
     },
     "126" : {
       "complexity" : "Intermediate",
-      "description" : "#",
+      "description" : "I'm going to speak on Constraint Layout: What's new in constraint layout(Barrier, Group, Placeholder) Exisiting functionalities in constraint layout(Ratio, Chain, Guidelines) & Cloud Firestore: How to get started with cloud firestore Structural changes with firestore Rules to be followed while pushing data to firestore",
       "id" : 126,
       "language" : "English",
-      "presentation" : "#",
-      "speakers" : [ 23 ],
+      "presentation" : "",
+      "speakers" : [ 13 ],
       "tags" : [ "Android" ],
-      "title" : "Session X",
-      "videoId" : "#"
+      "title" : "Android auto layout with Cloud Firestore",
+      "videoId" : ""
     },
     "129" : {
       "complexity" : "Beginner",
@@ -520,7 +520,7 @@
       "link" : "https://gdghyderabad.in/team/",
       "name" : "GDG Hydroid"
     } ],
-    "bio" : "Session to explore the true potential of flutter for cross platform development.",
+    "bio" : "Technology Enthusiast, Android developer.",
     "company" : "IVY Comptech",
     "companyLogo" : "/images/logos/ivy.jpg",
     "country" : "Hyderabad, Telangana",
@@ -536,6 +536,35 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "Software Engineer, IVY Comptech"
+  }, {
+    "bio" : "I like to be engaged with new technology and learn about them. Passionate to code and learn programming language quickly. Always ready to take challenging task and do them at most optimum level within stipulated time.",
+    "company" : "PurpleTalk",
+    "companyLogo" : "/images/logos/purple-talk.png",
+    "country" : "Hyderabad, Telangana",
+    "featured" : true,
+    "id" : 13,
+    "name" : "Pankaj Rai",
+    "photoUrl" : "/images/people/pankaj.jpg",
+    "shortBio" : "I like to be engaged with new technology and learn about them. Passionate to code and learn programming...",
+    "socials" : [ {
+      "icon" : "github",
+      "link" : "https://github.com/raipankaj",
+      "name" : "GitHub"
+    }, {
+        "icon" : "linkedin",
+        "link" : "https://in.linkedin.com/in/pankajrai16",
+        "name" : "LinkedIn"
+    }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/pankaj.rai16",
+        "name" : "Facebook"
+    }, {
+        "icon" : "website",
+        "link" : "https://medium.com/@pankaj.rai16",
+        "name" : "Website"
+    } ],
+    "tags" : [ "Android", "Kotlin", "Java"],
+    "title" : "Software Engineer, PurpleTalk"
   } ],
   "team" : [ {
     "members" : [ {
