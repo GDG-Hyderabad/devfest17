@@ -153,15 +153,14 @@
       "title" : "Startup/ Dev Talent"
     },
     "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
+      "description" : "Know more about the community",
       "id" : 105,
       "language" : "English",
-      "presentation" : "#",
+      "presentation" : "",
       "speakers" : [ ],
-      "tags" : [ "Cloud" ],
-      "title" : "Session XI",
-      "videoId" : "#"
+      "tags" : [ "Fireside" ],
+      "title" : "Fireside Chat with GDG Hyderabad Team",
+      "videoId" : ""
     },
     "106" : {
       "complexity" : "Beginner",
@@ -370,7 +369,7 @@
     "title" : "UX Designer- Product"
   }, {
     "bio" : "A hardcore Maker, Tinkerer and Entrepreneur helping build affordable Solutions, Embedded/IoT Platforms and Products in pursuit of my vision <b>Driving Human Potential​</b>. Also a fullStack Engineer ☻. Think and build across many verticals of Technology --​> Web, Mobile, Hardware, IoT, AI/ML, AR/VR etc^1/0. \n \n Areas I'm fascinated about: AI/ML, NLP, Chatbots, Blockchains & Humans.",
-    "company" : "Google Developers Group Hyderabad",
+    "company" : "PotentialLabs",
     "companyLogo" : "/images/logos/potentiallabs.jpg",
     "country" : "Hyderabad, Telangana",
     "featured" : true,
